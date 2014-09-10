@@ -1,0 +1,32 @@
+-------------------------------------------------
+headers - no proxy:
+
+  HTTP/1.1 200 OK
+  Cache-Control: max-age=3600
+  Access-Control-Allow-Origin: *
+  Set-Cookie: name1=value1,name2=value2
+  Content-Type: text/html
+  Vary: Accept-Encoding
+  Date: Sat, 06 Sep 2014 04:53:08 GMT
+  Server: Google Frontend
+  Alternate-Protocol: 80:quic
+  Expires: Sat, 06 Sep 2014 04:53:08 GMT
+  Transfer-Encoding: chunked
+
+-------------------------------------------------
+headers - using perl http proxy:
+
+  HTTP/1.1 200 OK
+  Cache-Control: max-age=3600
+  Connection: close
+  Date: Sat, 06 Sep 2014 04:53:08 GMT
+  Transfer-Encoding: chunked
+  Via: 1.1 matrixbk-pc (HTTP::Proxy/0.301)
+  Server: Google Frontend
+  Vary: Accept-Encoding
+  Content-Type: text/html
+  Expires: Sat, 06 Sep 2014 04:53:08 GMT
+  Access-Control-Allow-Origin: *
+  Alternate-Protocol: 80:quic
+
+-------------------------------------------------

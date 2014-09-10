@@ -1,0 +1,4 @@
+http://search.cpan.org/~gaas/HTML-Parser-3.71/Parser.pm
+http://search.cpan.org/CPAN/authors/id/G/GA/GAAS/HTML-Parser-3.71.tar.gz
+	HTML::Parser
+	version 3.71

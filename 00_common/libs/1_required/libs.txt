@@ -1,0 +1,51 @@
+-------------------------------------------------------------------------------
+
+http://search.cpan.org/~book/HTTP-Proxy-0.301/lib/HTTP/Proxy.pm
+http://search.cpan.org/CPAN/authors/id/B/BO/BOOK/HTTP-Proxy-0.301.tar.gz
+	HTTP::Proxy
+	version 0.301
+
+http://search.cpan.org/~gaas/HTTP-Daemon-6.01/lib/HTTP/Daemon.pm
+http://search.cpan.org/CPAN/authors/id/G/GA/GAAS/HTTP-Daemon-6.01.tar.gz
+	HTTP::Daemon
+	version 6.01
+
+http://search.cpan.org/~gaas/HTTP-Date-6.02/lib/HTTP/Date.pm
+http://search.cpan.org/CPAN/authors/id/G/GA/GAAS/HTTP-Date-6.02.tar.gz
+	HTTP::Date
+	version 6.02
+
+http://search.cpan.org/~mschilli/libwww-perl-6.08/lib/LWP/UserAgent.pm
+http://search.cpan.org/CPAN/authors/id/M/MS/MSCHILLI/libwww-perl-6.08.tar.gz
+	LWP::UserAgent
+	version 6.06
+
+http://search.cpan.org/~gbarr/IO-1.25/lib/IO/Select.pm
+http://search.cpan.org/CPAN/authors/id/G/GB/GBARR/IO-1.25.tar.gz
+	IO::Select
+	version 1.17
+
+http://search.cpan.org/~zefram/Carp-1.3301/lib/Carp.pm
+http://search.cpan.org/CPAN/authors/id/Z/ZE/ZEFRAM/Carp-1.3301.tar.gz
+	Carp
+	version 1.3301
+
+http://search.cpan.org/~dagolden/File-Temp-0.2304/lib/File/Temp.pm
+http://search.cpan.org/CPAN/authors/id/D/DA/DAGOLDEN/File-Temp-0.2304.tar.gz
+	File::Temp
+	version 0.2304
+
+-------------------------------------------------------------------------------
+
+included in Perl 5:
+===================
+  *	http://search.cpan.org/~rjbs/perl-5.20.0/lib/strict.pm
+	strict
+  *	http://search.cpan.org/~rjbs/perl-5.20.0/ext/Fcntl/Fcntl.pm
+	Fcntl
+  *	http://search.cpan.org/~rjbs/perl-5.20.0/ext/Sys-Hostname/Hostname.pm
+	Sys::Hostname
+  *	http://search.cpan.org/~rjbs/perl-5.20.0/ext/POSIX/lib/POSIX.pod
+	POSIX
+
+-------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+-------------------------------------------------
+content - no proxy:
+
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+jQuery(document).ready(function($){
+$('body').empty().text('test failed!');
+});
+</script>
+</head>
+<body>test</body>
+</html>
+-------------------------------------------------
+content - using perl http proxy:
+
+<html> <head><script type="text/javascript" src="http://localhost:81/custom.js"></script>   </head> <body>test</body> </html>
+-------------------------------------------------

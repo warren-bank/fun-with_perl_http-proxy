@@ -1,0 +1,9 @@
+menu:
+	Tools -> Options..
+tab:
+	Proxy
+settings:
+	Enable proxy	= true
+	Type			= Http
+	Host			= localhost
+	Port			= 8080

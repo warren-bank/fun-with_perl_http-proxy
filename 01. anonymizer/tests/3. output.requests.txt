@@ -1,0 +1,32 @@
+-------------------------------------------------
+headers - no proxy:
+
+{
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Charset": "utf-8", 
+    "Accept-Language": "en", 
+    "Connection": "close", 
+    "Cookie": "tester=warren", 
+    "From": "warren", 
+    "Host": "httpbin.org", 
+    "Referer": "warren", 
+    "User-Agent": "Firefox", 
+    "X-Request-Id": "2029379d-f4a2-4bab-b542-893804927b90"
+  }
+}
+-------------------------------------------------
+headers - using perl http proxy:
+
+{
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Charset": "utf-8", 
+    "Accept-Language": "en", 
+    "Connection": "close", 
+    "Host": "httpbin.org", 
+    "Via": "1.1 matrixbk-pc (HTTP::Proxy/0.301)", 
+    "X-Request-Id": "61f61fbc-3df4-4619-bfdc-8698fef44006"
+  }
+}
+-------------------------------------------------

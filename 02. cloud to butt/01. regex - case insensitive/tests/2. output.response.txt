@@ -1,0 +1,9 @@
+-------------------------------------------------
+content - no proxy:
+
+Everything is better when it is in the cloud
+-------------------------------------------------
+content - using perl http proxy:
+
+Everything is better when it is in my butt
+-------------------------------------------------

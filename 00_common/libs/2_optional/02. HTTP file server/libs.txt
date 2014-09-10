@@ -1,0 +1,44 @@
+http://search.cpan.org/~melo/App-HTTPThis-0.002/lib/App/HTTPThis.pm
+http://search.cpan.org/CPAN/authors/id/M/ME/MELO/App-HTTPThis-0.002.tar.gz
+	App::HTTPThis
+	version 0.002
+
+http://search.cpan.org/~miyagawa/Plack-1.0031/lib/Plack/App/Directory.pm
+http://search.cpan.org/CPAN/authors/id/M/MI/MIYAGAWA/Plack-1.0031.tar.gz
+	Plack::App::Directory
+	version 1.0031
+
+http://search.cpan.org/~jv/Getopt-Long-2.42/lib/Getopt/Long.pm
+http://search.cpan.org/CPAN/authors/id/J/JV/JV/Getopt-Long-2.42.tar.gz
+	Getopt::Long
+	version 2.42
+
+http://search.cpan.org/~marekr/Pod-Usage-1.64/lib/Pod/Usage.pm
+http://search.cpan.org/CPAN/authors/id/M/MA/MAREKR/Pod-Usage-1.64.tar.gz
+	Pod::Usage
+	version 1.64
+
+http://search.cpan.org/~corion/parent-0.228/lib/parent.pm
+http://search.cpan.org/CPAN/authors/id/C/CO/CORION/parent-0.228.tar.gz
+	parent
+	version 0.228
+
+http://search.cpan.org/~miyagawa/Hash-MultiValue-0.15/lib/Hash/MultiValue.pm
+http://search.cpan.org/CPAN/authors/id/M/MI/MIYAGAWA/Hash-MultiValue-0.15.tar.gz
+	Hash::MultiValue
+	version 0.15
+
+http://search.cpan.org/~getty/HTTP-Body-1.19/lib/HTTP/Body.pm
+http://search.cpan.org/CPAN/authors/id/G/GE/GETTY/HTTP-Body-1.19.tar.gz
+	HTTP::Body
+	version 1.19
+
+http://search.cpan.org/~doy/Stream-Buffered-0.03/lib/Stream/Buffered.pm
+http://search.cpan.org/CPAN/authors/id/D/DO/DOY/Stream-Buffered-0.03.tar.gz
+	Stream::Buffered
+	version 0.03
+
+http://search.cpan.org/~doy/Try-Tiny-0.22/lib/Try/Tiny.pm
+http://search.cpan.org/CPAN/authors/id/D/DO/DOY/Try-Tiny-0.22.tar.gz
+	Try::Tiny
+	version 0.22
